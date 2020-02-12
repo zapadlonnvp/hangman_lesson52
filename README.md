@@ -1,5 +1,6 @@
-# hangman_lesson52
-учебный репозиторий
+# игра "Виселица" 
+описание игры: https://ru.wikipedia.org/wiki/Виселица_(игра)
 
-Игра "Виселица" с демонстрацией возможностей гема Colorize (https://github.com/fazibear/colorize)
+Программа написана на языке Ruby.
+Помимо кода самой игры, демонстрируются возможности гема Colorize (https://github.com/fazibear/colorize)
 Для запуска выполнить `bundle install && bundle exec ruby main.rb`
